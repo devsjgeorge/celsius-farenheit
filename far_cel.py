@@ -27,5 +27,6 @@ while True:
        print("Converted temperature is: "+str(far)+" F")
    else :
        print("I dont understand your choice; Please try again!")
-       
+   
+print("Thank you for using Temperature Converter")
    # break
